@@ -1,0 +1,16 @@
+{
+  "name": "initium-nodejs-demo-app",
+  "version": "1.0.0",
+  "description": "Initium demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "private": true,
+  "author": "Luca Lanziani (luca@lanziani.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nearform/initium-nodejs-demo-app/issues"
+  },
+  "homepage": "https://github.com/nearform/initium-nodejs-demo-app#readme"
+}
